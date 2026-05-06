@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+debug.log
+cli_run_output.txt
+
+# Local data and outputs
+data/
+outputs/
+
+# Streamlit / local config
+.streamlit/
+
+# Personal assets
+wechat_qr.jpg
