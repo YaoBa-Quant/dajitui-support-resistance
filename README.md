@@ -12,7 +12,11 @@
 - 评估形态、通道、价格位置与未来 `5/10/20/60` 日收益关系
 - 基于 LightGBM 进行基础训练实验
 - 提供单元测试验证核心逻辑
-- 
+
+<img width="2224" height="1227"  src="https://github.com/user-attachments/assets/1f546260-75eb-4a49-80de-01c27c2e29ae" />
+
+作者微信 
+<img width="300" height="300" alt="下载" src="https://github.com/user-attachments/assets/59b0ce5b-f3b3-4c30-a8c9-c9191ec5acb1" />
 
 
 ## 项目结构
