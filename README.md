@@ -15,7 +15,7 @@
 
 <img width="2224" height="1227"  src="https://github.com/user-attachments/assets/1f546260-75eb-4a49-80de-01c27c2e29ae" />
 
-作者微信 
+作者微信，加我拉你进群，一起探讨量化，群里有不少大佬大咖 
 <img width="300" height="300" alt="下载" src="https://github.com/user-attachments/assets/59b0ce5b-f3b3-4c30-a8c9-c9191ec5acb1" />
 
 
